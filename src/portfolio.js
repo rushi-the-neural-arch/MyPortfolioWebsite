@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //Home Page
@@ -461,7 +461,7 @@ const degrees = {
     {
       title: "State Rank: 2nd, Thomson Reuters, HackArena - AI Hackathon",
       subtitle: "Won a cash prize of 30,000 INR. ",
-      logo_path: "TR.jpg",
+      logo_path: "TR2.jpg",
       alt_name: "Team MAVERICK",
       //duration: "2016 - Present",
       descriptions: [],
@@ -777,8 +777,8 @@ const contactPageData = {
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+      "Documenting important concepts has always been a life saver for me, I wish to continue this habit further in the form of tehcnical blogs to make the knowledge available freely!🙂. NOTE: Still work in progress 😕",
+    link: "https://medium.com/@rushirajparmar23000",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
