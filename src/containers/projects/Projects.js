@@ -73,12 +73,6 @@ export default function Projects() {
           return <GithubRepoCard repo={v} key={v.node.id} />;
         })}
       </div>
-      <Button
-        text={"More Projects"}
-        className="project-button"
-        href="https://github.com/ashutosh1919"
-        newTab={true}
-      />
     </div>
   );
 }

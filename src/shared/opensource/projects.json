@@ -1,1 +1,92 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNTcyNTk5ODY=",
+      "name": "COVID-19-Drug-Designing-using-Deep-Learning",
+      "createdAt": "2020-04-20T11:29:45Z",
+      "url": "https://github.com/rushirajsherlocked/COVID-19-Drug-Designing-using-Deep-Learning",
+      "description": "This Repo contains our methodology and solution to predict / Synthesise potential Antidotes/Cure using AI solutions for the current pandemic",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjE2NTIzOTc=",
+      "name": "Research-Paper-Implementation",
+      "createdAt": "2020-05-06T04:34:07Z",
+      "url": "https://github.com/rushirajsherlocked/Research-Paper-Implementation",
+      "description": "My PyTorch Implemenation of various Deep Learning Research Papers",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDQ3MDk4NzU=",
+      "name": "TCS-HumAIn---Taxonomy-Classification",
+      "createdAt": "2019-08-27T13:31:05Z",
+      "url": "https://github.com/rushirajsherlocked/TCS-HumAIn---Taxonomy-Classification",
+      "description": "This repo contains my implementation of the Taxonomy Classification problem for TCS HumAIn Idea submission round",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODA3OTQ1Mzk=",
+      "name": "EfficientDet-Object-Detection",
+      "createdAt": "2020-07-19T04:55:44Z",
+      "url": "https://github.com/rushirajsherlocked/EfficientDet-Object-Detection",
+      "description": "PyTorch Implementation of EfficientDet: Scalable and Efficient Object Detection",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMzYwMDkzOTE=",
+      "name": "FastAi-Projects",
+      "createdAt": "2020-01-24T13:39:28Z",
+      "url": "https://github.com/rushirajsherlocked/FastAi-Projects",
+      "description": "Deep Learning practise projects using PyTorch Framework and FastAi Library",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyODY1NjA3MDE=",
+      "name": "Computer-Vision-Colab-Notebooks",
+      "createdAt": "2020-08-10T19:22:59Z",
+      "url": "https://github.com/rushirajsherlocked/Computer-Vision-Colab-Notebooks",
+      "description": "My Implementation of various Computer Vision projects on Google Colab",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
